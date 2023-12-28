@@ -3,6 +3,11 @@ package com.dhanunjay.Arrays.Sorting;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+    Time Complexity : O(N^2)
+    Space Complexity : O(1)
+ */
+
 public class SelectionSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
