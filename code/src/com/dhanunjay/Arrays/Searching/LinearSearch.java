@@ -1,6 +1,11 @@
 package com.dhanunjay.Arrays.Searching;
 
 import java.util.Scanner;
+/*
+    Linear Search
+    Time Complexity : O(N)
+    Space Complexity : O(1)
+ */
 
 public class LinearSearch {
     public static void main(String[] args) {
@@ -27,4 +32,5 @@ public class LinearSearch {
             System.out.println("Number Not Exist!");
         }
     }
+
 }

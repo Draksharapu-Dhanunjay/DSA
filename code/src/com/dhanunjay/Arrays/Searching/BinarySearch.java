@@ -20,7 +20,7 @@ public class BinarySearch {
         }
         System.out.print("Enter element to find:");
         int target = sc.nextInt();
-        Arrays.sort(arr);
+//        Arrays.sort(arr);
         System.out.println("Index of "+ target +" :"+ binarySearch(arr, target));
     }
     static int binarySearch(int[] arr, int target){
