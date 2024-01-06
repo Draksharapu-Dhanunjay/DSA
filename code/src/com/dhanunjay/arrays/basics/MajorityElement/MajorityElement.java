@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Basics.MajorityElement;
+package com.dhanunjay.arrays.basics.MajorityElement;
 
 import java.util.HashMap;
 import java.util.Map;

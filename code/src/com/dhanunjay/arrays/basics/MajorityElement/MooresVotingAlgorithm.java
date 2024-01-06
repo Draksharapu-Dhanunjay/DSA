@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Basics.MajorityElement;
+package com.dhanunjay.arrays.basics.MajorityElement;
 /*
     Time Complexity: O(N) + O(N) : O(2N) : O(N)
     Space Complexity: O(1)

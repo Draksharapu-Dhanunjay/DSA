@@ -1,6 +1,5 @@
-package com.dhanunjay.Arrays.Searching;
+package com.dhanunjay.arrays.searching;
 
-import java.util.Arrays;
 import java.util.Scanner;
 /*
     Time Complexity : O(NlogN) if array is sorted

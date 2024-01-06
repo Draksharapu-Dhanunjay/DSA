@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Searching;
+package com.dhanunjay.arrays.searching;
 
 import java.util.Scanner;
 /*

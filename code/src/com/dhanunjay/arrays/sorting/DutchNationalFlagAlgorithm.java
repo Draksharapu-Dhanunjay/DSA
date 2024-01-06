@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Sorting;
+package com.dhanunjay.arrays.sorting;
 
 import java.util.Arrays;
 /*

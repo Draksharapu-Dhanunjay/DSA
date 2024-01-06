@@ -1,5 +1,5 @@
 // array -> 0 to n find missing number
-package com.dhanunjay.Arrays.Basics;
+package com.dhanunjay.arrays.basics;
 
 public class MissingNumber {
     public static void main(String[] args) {

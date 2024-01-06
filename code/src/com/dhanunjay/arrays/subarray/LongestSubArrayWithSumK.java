@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.SubArray;
+package com.dhanunjay.arrays.subarray;
 
 import java.util.HashMap;
 

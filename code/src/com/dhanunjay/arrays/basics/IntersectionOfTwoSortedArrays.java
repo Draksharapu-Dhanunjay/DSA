@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Basics;
+package com.dhanunjay.arrays.basics;
 
 import java.util.ArrayList;
 import java.util.List;

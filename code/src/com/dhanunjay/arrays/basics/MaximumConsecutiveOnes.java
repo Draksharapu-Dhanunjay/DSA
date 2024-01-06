@@ -1,4 +1,4 @@
-package com.dhanunjay.Arrays.Basics;
+package com.dhanunjay.arrays.basics;
 
 public class MaximumConsecutiveOnes {
     public static void main(String[] args) {
